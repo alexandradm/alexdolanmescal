@@ -651,7 +651,7 @@ left:auto;
 
 .seperator-addon{
 height:3px;
-width:70px;
+width:270px;
 position: absolute;
 top:50%;
 left:0;
@@ -2490,4 +2490,3 @@ box-sizing: border-box;
 #top .widget_twitter .intent-meta{ display: block; font-size: 11px; margin-top:8px;}
 #top .widget_twitter .intent-meta a{ text-decoration: none; margin-right: 4px;  }
 #top .widget_twitter .intent-meta a:hover{text-decoration: underline;}
-
